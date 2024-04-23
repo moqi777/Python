@@ -1,0 +1,2 @@
+strl = "abcdef"
+print(strl[:])
