@@ -5,7 +5,7 @@ stu_info2 = dict(stu_info1)
 # 通过其他字典创建
 stu_info3 = dict((['num','20180101'],['name','Liming'],['sex','male']))
 # 通过“（键，值）”对的序列创建
-stu_info4 = dict(num = '20180101',name = "Liming",sex = "male")
+stu_info4 = dict(num = '20180101',name = "Liming",sex = "male") 
 # 通过关键字参数创建
 stu_info5 = dict(zip(['num','name','sex'],['20180101','Liming','male']))
 # 通过idct和zip结合创建
